@@ -38,7 +38,7 @@ htop
 
 ### Screenshot 01 – ps, ps aux, top, htop Command Output
 
-![ps Output](Screenshots/Part_A.png)
+![ps Output](Screenshots/Part_A1.png)
 
 
 ![top Output](Screenshots/Part_A2.png)
@@ -70,7 +70,7 @@ kill -9 PID
 
 ### Screenshot 05 – Running Sleep Process
 
-![Sleep Process](Screenshots/Part_B.png)
+![Sleep Process](Screenshots/Part_B1.png)
 
 ### Screenshot 06 – Finding PID, Kill Process
 
